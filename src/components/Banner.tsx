@@ -161,7 +161,7 @@
 // }
 
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import bannerImg from '../assets/banner.png';
 import LogoQ from '../assets/logo-q.svg';
 import LogoT from '../assets/logo-t.svg';

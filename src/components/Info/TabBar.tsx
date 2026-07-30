@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import iconFood from '../../assets/icon-food.svg';
 import iconRetail from '../../assets/icon-retail.svg';
 import iconService from '../../assets/icon-service.svg';
