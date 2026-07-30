@@ -1,6 +1,6 @@
 # QTable — Landing Page
 
-Trang landing page marketing cho sản phẩm **QTable**, được xây dựng từ thiết kế Figma và triển khai với React + Vite + TailwindCSS v4.
+
 <img width="1898" height="2497" alt="image" src="https://github.com/user-attachments/assets/06369ff6-e05c-4e36-ba2c-54c8fd2ecaac" />
 
 ---
